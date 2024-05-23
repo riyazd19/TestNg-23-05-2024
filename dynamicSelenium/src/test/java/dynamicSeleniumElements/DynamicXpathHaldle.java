@@ -32,6 +32,7 @@ public class DynamicXpathHaldle {
 			}
 
 		}
+		//commit to check
 		Assert.assertTrue(status);
 		Thread.sleep(2000);
 		driver.close();		
